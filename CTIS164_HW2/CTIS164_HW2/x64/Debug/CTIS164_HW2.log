@@ -1,0 +1,129 @@
+﻿  DunePiercer.cpp
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(71,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(71,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(80,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(81,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(81,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(89,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(90,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(90,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(98,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(99,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(99,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(107,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(108,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(108,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(121,29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(122,29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(132,29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(133,29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(159,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(205,14): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(234,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(238,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(239,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(246,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(247,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(251,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(288,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(291,56): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(291,35): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(291,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(291,11): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(352,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(284,9): warning C4101: 'y': unreferenced local variable
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(284,6): warning C4101: 'x': unreferenced local variable
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(407,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(453,63): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(453,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(474,65): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(474,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(492,110): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(492,40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(495,54): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(496,45): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(497,54): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(504,64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(504,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(510,65): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(510,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(517,110): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(517,40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(520,54): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(521,45): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(522,54): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(533,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(535,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(544,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(552,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(554,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(557,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(558,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(559,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(560,71): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(560,40): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(562,64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(562,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(563,72): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(563,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(565,64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(565,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(574,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(574,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(575,43): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(575,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(577,43): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(577,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(578,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(578,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(583,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(583,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(584,43): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(584,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(586,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(586,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(587,45): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(587,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(592,45): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(592,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(593,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(593,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(594,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(594,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(595,45): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(595,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(603,34): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(610,35): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(617,35): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(627,36): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(629,36): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(639,36): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(641,36): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(754,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(754,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(757,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(757,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(759,57): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(759,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(760,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(760,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(763,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(763,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(766,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(766,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(768,59): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(768,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(769,59): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(769,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(770,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(770,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(771,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(771,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(774,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(774,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(777,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(777,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\CTIS164_HW2\DunePiercer.cpp(804,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CTIS164_HW2.vcxproj -> C:\Users\omerk\Desktop\forctis164\CTIS164_HW2\x64\Debug\CTIS164_HW2.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
